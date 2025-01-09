@@ -4570,7 +4570,7 @@ MonoBehaviour:
   m_AttachTransform: {fileID: 62092033}
   m_KeepSelectedTargetValid: 1
   m_DisableVisualsWhenBlockedInGroup: 1
-  m_StartingSelectedInteractable: {fileID: 0}
+  m_StartingSelectedInteractable: {fileID: 758498503}
   m_StartingTargetFilter: {fileID: 0}
   m_HoverEntered:
     m_PersistentCalls:
@@ -5893,7 +5893,7 @@ MonoBehaviour:
   m_AttachTransform: {fileID: 773155580}
   m_KeepSelectedTargetValid: 1
   m_DisableVisualsWhenBlockedInGroup: 1
-  m_StartingSelectedInteractable: {fileID: 0}
+  m_StartingSelectedInteractable: {fileID: 1175425060}
   m_StartingTargetFilter: {fileID: 0}
   m_HoverEntered:
     m_PersistentCalls:
@@ -7995,7 +7995,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: c8cb0807ae1562d48be664a6e9bfcb21,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.089
+      value: -2.019
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c8cb0807ae1562d48be664a6e9bfcb21,
         type: 3}
